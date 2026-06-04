@@ -1,7 +1,7 @@
 <div align="center">
 # Chocolate Doom 
  - Proyecto de Bases de Datos  
- - Equipo **Arepas de Arroz Pelado*+
+ - Equipo **Arepas de Arroz Pelado**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.6-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-DDL%20%2F%20DML-orange?style=for-the-badge&logo=database&logoColor=white)
